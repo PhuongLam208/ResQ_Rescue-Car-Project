@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-content-admin{
+   width: 96%;
+   background-color: white;
+   min-height: 140vh;
+   margin-top: 20px;
+   border-radius: 20px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   -ms-border-radius: 20px;
+   -o-border-radius: 20px;
+}
+/* .w-main-content{
+   background-color:  rgba(176, 176, 176, 0.1);
+   height: 118vh;
+} */

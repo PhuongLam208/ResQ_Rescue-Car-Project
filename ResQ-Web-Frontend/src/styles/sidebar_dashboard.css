@@ -1,0 +1,57 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* .w-sidebar{
+   width: 80%;
+} */
+
+.w-logo{
+   width: 100px;
+}
+
+.border-sidebar{
+   /* border-right: 1px solid #68A2F0; */
+   background-color: white;
+   height: 100%;
+}
+
+.img-icon-small{
+   width: 25px;
+   margin-right: 20px;
+   margin-left: 10px;
+}
+
+.btn-sidebar{
+   border: 1px solid #68A2F0;
+   border-radius: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
+   padding: 5px 20px;
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   width: 250px;
+   height: 38px;
+}
+
+
+.text-btn-sidebar{
+   font-size: 16px;
+   color: #013171;
+}
+.title-sidebar{
+   width: 78%;
+   text-align: start;
+   font-size: 18px;
+   font-weight: 600;
+   color: #013171;
+}
+
+.focus-btn {
+   background-color: #6799DC; /* Example of active button background */
+   color: white; /* Example of border for active button */
+   font-weight: 500;
+ }

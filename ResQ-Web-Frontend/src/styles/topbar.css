@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-topbar{
+   height: 12vh;
+   background-color: white;
+}
+.btn-back{
+   width: 50px;
+   height: 35px;
+   border: 1px solid #68A2F0;
+   border-radius: 20px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   -ms-border-radius: 20px;
+   -o-border-radius: 20px;
+}
+.w-right-topbar{
+   width: 25%;
+}
+.back-icon-admin{
+   width: 20px;
+}
+
+.noti-icon{
+   width: 40px;
+}
+
+.logout-icon{
+   height: 35px;
+}
+
+.text-drop-topbar{
+   /* font-family: 'Manrope'; */
+   font-size: 18px;
+   font-weight: 500;
+}
+
+.avatar-icon{
+   width: 40px;
+   height: 40px;
+   border-radius: 50%;
+   -webkit-border-radius: 50%;
+   -moz-border-radius: 50%;
+   -ms-border-radius: 50%;
+   -o-border-radius: 50%;
+}

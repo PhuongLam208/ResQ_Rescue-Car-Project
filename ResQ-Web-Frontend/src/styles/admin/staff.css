@@ -1,0 +1,26 @@
+.createUser{
+    border: 1px solid #013171;
+    width: 20vw;
+    height: 3.5vh;
+    border-radius: 10px;
+    line-height: 3vh;
+}
+
+.input-field {
+  width: 100%;
+  border: 1px solid #d1d5db; /* gray-300 */
+  border-radius: 0.75rem;     /* rounded-xl */
+  padding: 0.5rem 1rem;       /* py-2 px-4 */
+  font-size: 0.875rem;        /* text-sm */
+  transition: all 0.2s ease;
+}
+
+.input-field:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #68A2F0;
+}
+
+.input-label {
+  font-weight: 500;
+  color: #374151; /* text-gray-700 */
+}

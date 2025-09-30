@@ -1,0 +1,32 @@
+.tableHead{
+    background-color: #68A2F0;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    border: 1px solid #D8D8D8;
+    line-height: 70px;
+    width: 18%;
+    padding: 5px 10px;
+}
+
+.tableContent{
+    min-width: 50px !important;
+    padding: 5px 10px;
+    border: 1px solid #D8D8D8;
+}
+
+.feedbackHead{
+    background-color: #68A2F0;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    border: 1px solid #D8D8D8;
+    line-height: 70px;
+    width: 40%;
+    padding: 5px 10px;
+}
+
+.feedbackContent{
+    padding: 5px 10px;
+    border: 1px solid #D8D8D8;
+}

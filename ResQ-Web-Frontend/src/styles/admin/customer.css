@@ -1,0 +1,56 @@
+.w-btn-customer{
+    width: 150px;
+    border-radius: 10px;
+    height: 50px;
+}
+
+.btn-active-customer{
+    border: 1px solid #68A2F0;
+    color: #013171;
+}
+
+.main-customer{
+    min-height: 140vh;
+}
+
+.bg-active{
+    background-color: #4b9249;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    height: 28px;
+    width: 85px;
+}
+
+.detailTitle{
+    line-height: 35px;
+    border-left: 1px gray solid;
+    padding-left: 20px;
+}
+
+.detailContent{
+    text-align: right;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    padding-right: 5px;
+}
+
+.InformationTitle{
+    padding: 5px 10px;
+    border-left: 1px solid gray;
+}
+
+.InformationContent{
+    padding: 5px 10px;
+    border-right: 1px solid gray;
+    text-align: right;
+}
+
+.box-dashboard{
+    font-weight: bold;
+    height: 110px;
+    width: 225px;
+    border: 1px #68A2F0 solid;
+    border-radius: 20px;
+    padding: 25px;
+}

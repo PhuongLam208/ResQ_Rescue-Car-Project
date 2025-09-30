@@ -1,0 +1,31 @@
+.container-function{
+   width:90%;
+   margin: 1rem auto;
+
+}
+
+.container-function .allsearch{
+   display: flex;
+   width: 50%;
+   align-items: center;
+   border: 1px solid #1744a5;
+   border-radius: 30px;
+   padding: 0.5rem;
+}
+.container-function .allsearch .input-search{
+   width: 90%;
+}
+.container-function .allsearch input{
+   border: none;
+   outline: none;
+   margin-left: 1rem;
+}
+.container-function .allsearch img{
+   width: 1.5rem;
+
+}
+.main-customer {
+  font-size: 0.875rem; /* text-sm */
+  max-width: 100%;
+  overflow-x: hidden;
+}

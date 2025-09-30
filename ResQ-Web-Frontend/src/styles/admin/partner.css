@@ -1,0 +1,46 @@
+.w-main-partner{
+   height: 100%;
+   
+}
+
+.maincontent-partner{
+   height: 140vh;
+   background-color:  rgba(176, 176, 176, 0.1);
+   border-radius: 20px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   -ms-border-radius: 20px;
+   -o-border-radius: 20px;
+}
+.sidebar-partner{
+   width: 20%;
+}
+
+.main-partner{
+   width: 80%;
+   background-color: white;
+}
+
+.w-btn-partner{
+   width: 70%;
+   height: 40px;
+   font-size: 15px;
+   font-weight: 500;
+   border: 1px solid #68A2F0;
+   border-radius: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
+}
+
+.info-partner{
+   font-size: 15px;
+   font-weight: 500;
+   margin: 20px 10px;
+   color: #013171;
+}
+.btn-active-partner{
+   border: 1px solid #68A2F0;
+   color: #013171;
+}

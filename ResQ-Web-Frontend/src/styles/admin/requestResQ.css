@@ -1,0 +1,13 @@
+.inputForm{
+    border:  solid #68A2F0 1px;
+    width: 45vh;
+    margin-left: 25px;
+    border-radius: 20px;
+    height: 35px;
+}
+
+.rowForm{
+    line-height: 50px;
+    vertical-align: middle;
+    color:#013171;
+}
